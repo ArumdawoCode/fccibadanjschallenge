@@ -2,7 +2,7 @@
 
 ## _Checklist_
 
-- [ ] **Day 1** - Javascript Drum
+- [ ] **Day 1** - Javascript Drum Kit
   - [x] Setemi
   - [ ] Bidemi
   - [ ] Chibuzoor
