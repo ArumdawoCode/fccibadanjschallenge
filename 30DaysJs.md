@@ -30,7 +30,7 @@
   - [ ] Bidemi
   - [ ] Chibuzoor
   - [ ] Kolade
-  - [ ] Sample Name
+  - [ ] Sample **Name**
 - [ ] **Day 6** - Type Ahead
 - [ ] **Day 7** - Array Cardio, Day 2
 - [ ] **Day 8** - Fun with HTML5 Canvas
