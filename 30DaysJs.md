@@ -2,9 +2,9 @@
 
 ## _Checklist_
 
-- [ ] **Day 1** - Javascript Drum
+- [ ] **Day 1** - Javascript Drum Kit
   - [x] Setemi
-  - [ ] Bidemi
+  - [ ] Abidemi
 - [ ] **Day 2** - JS and CSS Clock
 - [ ] **Day 3** - CSS Variables
 - [ ] **Day 4** - Array Cardio, Day 1
