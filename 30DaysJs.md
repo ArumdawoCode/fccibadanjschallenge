@@ -5,6 +5,7 @@
 - [ ] **Day 1** - Javascript Drum Kit
   - [x] Setemi
   - [ ] Abidemi
+  - [x] Chibuzor
 - [ ] **Day 2** - JS and CSS Clock
 - [ ] **Day 3** - CSS Variables
 - [ ] **Day 4** - Array Cardio, Day 1
