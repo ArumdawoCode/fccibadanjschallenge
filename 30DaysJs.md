@@ -4,11 +4,33 @@
 
 - [ ] **Day 1** - Javascript Drum Kit
   - [x] Setemi
-  - [ ] Abidemi
+  - [ ] Bidemi
+  - [ ] Chibuzoor
+  - [ ] Kolade
+  - [ ] Sample Name
 - [ ] **Day 2** - JS and CSS Clock
-- [ ] **Day 3** - CSS Variables
+  - [x] Setemi
+  - [ ] Bidemi
+  - [ ] Chibuzoor
+  - [ ] Kolade
+  - [ ] Sample Name
+- [ ] **Day 3** - CSS Variables - [x] Setemi
+  - [ ] Bidemi
+  - [ ] Chibuzoor
+  - [ ] Kolade
+  - [ ] Sample Name
 - [ ] **Day 4** - Array Cardio, Day 1
+  - [x] Setemi
+  - [ ] Bidemi
+  - [ ] Chibuzoor
+  - [ ] Kolade
+  - [ ] Sample Name
 - [ ] **Day 5** - Flex Panel Gallery
+  - [x] Setemi
+  - [ ] Bidemi
+  - [ ] Chibuzoor
+  - [ ] Kolade
+  - [ ] Sample **Name**
 - [ ] **Day 6** - Type Ahead
 - [ ] **Day 7** - Array Cardio, Day 2
 - [ ] **Day 8** - Fun with HTML5 Canvas
