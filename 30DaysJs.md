@@ -20,16 +20,16 @@
   - [x] Chibuzor
   - [ ] Kolade
   - [ ] Sample Name
-- [ ] **Day 3** - CSS Variables - [x] Setemi
+- [ ] **Day 3** - CSS Variables - 
+    [x] Setemi
   - [ ] Bidemi
-  - [ ] Chibuzor
+  - [x] Chibuzor
   - [ ] Kolade
   - [ ] Sample Name
 - [ ] **Day 4** - Array Cardio, Day 1
   - [x] Setemi
   - [ ] Bidemi
   - [x] Chibuzor
-  - [ ] Chibuzoor
   - [ ] Kolade
   - [ ] Sample Name
 - [ ] **Day 5** - Flex Panel Gallery
