@@ -20,16 +20,16 @@
   - [x] Chibuzor
   - [ ] Kolade
   - [ ] Sample Name
-- [ ] **Day 3** - CSS Variables - [x] Setemi
+- [ ] **Day 3** - CSS Variables - 
+    [x] Setemi
   - [ ] Bidemi
-  - [ ] Chibuzor
+  - [x] Chibuzor
   - [ ] Kolade
   - [ ] Sample Name
 - [ ] **Day 4** - Array Cardio, Day 1
   - [x] Setemi
   - [ ] Bidemi
   - [x] Chibuzor
-  - [ ] Chibuzoor
   - [ ] Kolade
   - [ ] Sample Name
 - [ ] **Day 5** - Flex Panel Gallery
@@ -44,6 +44,10 @@
   - [x] Chibuzor
   - [ ] Kolade
 - [ ] **Day 7** - Array Cardio, Day 2
+  - [ ] Setemi
+  - [ ] Bidemi
+  - [x] Chibuzor
+  - [ ] Kolade
 - [ ] **Day 8** - Fun with HTML5 Canvas
 - [ ] **Day 9** - Dev Tools Domination
 - [ ] **Day 10** - Hold Shift and Check Checkboxes
