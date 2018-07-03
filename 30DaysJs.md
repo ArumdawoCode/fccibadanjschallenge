@@ -5,34 +5,49 @@
 - [ ] **Day 1** - Javascript Drum Kit
   - [x] Setemi
   - [ ] Bidemi
-  - [ ] Chibuzoor
+  - [x] Chibuzor
   - [ ] Kolade
   - [ ] Sample Name
 - [ ] **Day 2** - JS and CSS Clock
   - [x] Setemi
   - [ ] Bidemi
-  - [ ] Chibuzoor
+  - [x] Chibuzor
   - [ ] Kolade
   - [ ] Sample Name
-- [ ] **Day 3** - CSS Variables - [x] Setemi
+- [ ] **Day 3** - CSS Variables 
+  - [x] Setemi
   - [ ] Bidemi
-  - [ ] Chibuzoor
+  - [x] Chibuzor
+  - [ ] Kolade
+  - [ ] Sample Name
+- [ ] **Day 3** - CSS Variables - 
+    [x] Setemi
+  - [ ] Bidemi
+  - [x] Chibuzor
   - [ ] Kolade
   - [ ] Sample Name
 - [ ] **Day 4** - Array Cardio, Day 1
   - [x] Setemi
   - [ ] Bidemi
-  - [ ] Chibuzoor
+  - [x] Chibuzor
   - [ ] Kolade
   - [ ] Sample Name
 - [ ] **Day 5** - Flex Panel Gallery
   - [x] Setemi
   - [ ] Bidemi
-  - [ ] Chibuzoor
+  - [x] Chibuzor
   - [ ] Kolade
-  - [ ] Sample **Name**
-- [ ] **Day 6** - Type Ahead
+  - [ ] Sample Name
+ - [ ] **Day 6** - Type Ahead
+  - [x] Setemi
+  - [ ] Bidemi
+  - [x] Chibuzor
+  - [ ] Kolade
 - [ ] **Day 7** - Array Cardio, Day 2
+  - [ ] Setemi
+  - [ ] Bidemi
+  - [x] Chibuzor
+  - [ ] Kolade
 - [ ] **Day 8** - Fun with HTML5 Canvas
 - [ ] **Day 9** - Dev Tools Domination
 - [ ] **Day 10** - Hold Shift and Check Checkboxes
