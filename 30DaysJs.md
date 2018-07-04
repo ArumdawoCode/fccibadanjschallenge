@@ -4,7 +4,7 @@
 
 - [ ] **Day 1** - Javascript Drum Kit
   - [x] Setemi
-  - [ ] Bidemi
+  - [x] Bidemi
   - [x] Chibuzor
   - [x] Kolade
   - [ ] Sample Name
