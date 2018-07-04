@@ -6,19 +6,19 @@
   - [x] Setemi
   - [ ] Bidemi
   - [x] Chibuzor
-  - [ ] Kolade
+  - [x] Kolade
   - [ ] Sample Name
 - [ ] **Day 2** - JS and CSS Clock
   - [x] Setemi
   - [ ] Bidemi
   - [x] Chibuzor
-  - [ ] Kolade
+  - [x] Kolade
   - [ ] Sample Name
 - [ ] **Day 3** - CSS Variables 
   - [x] Setemi
   - [ ] Bidemi
   - [x] Chibuzor
-  - [ ] Kolade
+  - [x] Kolade
   - [ ] Sample Name
 - [ ] **Day 3** - CSS Variables - [x] Setemi
   - [ ] Bidemi
