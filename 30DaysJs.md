@@ -14,13 +14,13 @@
   - [x] Chibuzor
   - [ ] Kolade
   - [ ] Sample Name
-- [ ] **Day 3** - CSS Variables 
+- [ ] **Day 3** - CSS Variables
   - [x] Setemi
   - [ ] Bidemi
   - [x] Chibuzor
   - [ ] Kolade
   - [ ] Sample Name
-- [ ] **Day 3** - CSS Variables - 
+- [ ] **Day 3** - CSS Variables -
     [x] Setemi
   - [ ] Bidemi
   - [x] Chibuzor
@@ -39,12 +39,12 @@
   - [ ] Kolade
   - [ ] Sample Name
  - [ ] **Day 6** - Type Ahead
+    - [x] Setemi
+    - [ ] Bidemi
+    - [x] Chibuzor
+    - [ ] Kolade
+- [x] **Day 7** - Array Cardio, Day 2
   - [x] Setemi
-  - [ ] Bidemi
-  - [x] Chibuzor
-  - [ ] Kolade
-- [ ] **Day 7** - Array Cardio, Day 2
-  - [ ] Setemi
   - [ ] Bidemi
   - [x] Chibuzor
   - [ ] Kolade
